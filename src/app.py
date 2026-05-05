@@ -45,6 +45,18 @@ activities = {
         "max_participants": 18,
         "participants": ["liam@mergington.edu", "ava@mergington.edu"]
     },
+    "Basketball Team": {
+        "description": "Practice drills and play games with the school basketball team",
+        "schedule": "Mondays, Wednesdays, Fridays, 5:00 PM - 7:00 PM",
+        "max_participants": 18,
+        "participants": ["nate@mergington.edu", "emma@mergington.edu"]
+    },
+    "Volleyball Club": {
+        "description": "Improve volleyball skills through drills, scrimmages, and conditioning",
+        "schedule": "Tuesdays and Thursdays, 4:30 PM - 6:00 PM",
+        "max_participants": 16,
+        "participants": ["ava@mergington.edu", "oliver@mergington.edu"]
+    },
     "Swimming Club": {
         "description": "Lap swimming, stroke improvement, and relay training",
         "schedule": "Tuesdays and Fridays, 3:30 PM - 4:45 PM",
